@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning DeepL
 - 🌀 I’m looking to collaborate on DeepL Project
-- 📫 How to reach me: josephomnison@outlook.com
+- 📫 How to reach me: joseph.omnison@outlook.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: C#
 
