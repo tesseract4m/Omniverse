@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Joseph Omnisson
+- 👋 Hi, I’m Josephus Omnison
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning DeepL
 - 🌀 I’m looking to collaborate on DeepL Project
-- 📫 How to reach me: omnisson@outlook.com
+- 📫 How to reach me: josephomnison@outlook.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: C#
 
