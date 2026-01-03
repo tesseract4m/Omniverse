@@ -4,7 +4,7 @@
 - 🌀 I’m looking to collaborate on DeepL Project.
 - 📫 How to reach me: joseph.omnison@outlook.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: C#
+- ⚡ Fun fact: Playing video games 24/7.
 
 <!---
 tinsatesfaye/tinsatesfaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
